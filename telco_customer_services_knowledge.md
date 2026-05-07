@@ -3,8 +3,6 @@ sl
 
 ## Business Contexts
 
-### Customer Churn Rate
-
 Customer churn rate is calculated as the percentage of customers who discontinued service within a given quarter. The formula is:
 
 ```
